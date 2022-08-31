@@ -10,7 +10,14 @@
   ],
   "author": "Dennis Thiesen <dennis.thiesen.1990@gmail.com>",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "run-p start:**",
+    "start:lambda": "netlify-lambda serve functions",
+    "start:react": "react-scripts start",
+    "build": "run-p build:**",
+    "build:lambda": "netlify-lambda build functions",
+    "build:react": "react-scripts build"
+  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "express": "^4.18.1",
