@@ -3,7 +3,7 @@
 **Technologies used in project:**
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%23001E2B?style=for-the-badge&logo=mongodb&logoColor=%2347A248)](https://en.wikipedia.org/wiki/MongoDB)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework))
+[![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 [![Express](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/Express.js)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://en.wikipedia.org/wiki/Netlify)
 
