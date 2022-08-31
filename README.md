@@ -4,7 +4,7 @@
 
 </div>
 
-[![Build](https://img.shields.io/netlify/dist-website?style=flat-square&logo=netlify)]()
+[![Build](https://img.shields.io/netlify/eef90d0f-016a-4017-9e83-8ab4ffd8958f?style=flat-square&logo=netlify)]()
 [![Version](https://img.shields.io/github/package-json/v/Hulle107/ProjectD?style=flat-square)]()
 [![License](https://img.shields.io/github/license/Hulle107/ProjectD?style=flat-square)]()
 [![Top language](https://img.shields.io/github/languages/top/Hulle107/ProjectD?style=flat-square)]()
