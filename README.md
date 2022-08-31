@@ -13,4 +13,4 @@ ProjectD is my apprentice assignment, for my Computer Technician degree, at Ball
 
 ## Documentation
 
-- [Software requirements specification](SRS.md)
+- [Software requirements specification](documentation/SRS.md)
