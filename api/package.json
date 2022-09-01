@@ -3,8 +3,8 @@
   "version": "1.0.1",
   "private": true,
   "scripts": {
-    "start": "npm tsc --watch",
-    "build": "npm tsc"
+    "start": "tsc --watch",
+    "build": "tsc"
   },
   "dependencies": {
     "@types/express": "^4.17.13",
