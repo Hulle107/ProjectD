@@ -1,15 +1,12 @@
 <div align="center">
 
-![ProjectD](client/public/logo.png)
+![ProjectD](https://drive.google.com/file/d/1ueq4ihuiduU984P5iKqIdljQaFTGWEOh/view?usp=sharing)
 
 </div>
 
-[![Build](https://img.shields.io/netlify/eef90d0f-016a-4017-9e83-8ab4ffd8958f?style=flat-square&logo=netlify)](https://sunny-cassata-fd4c22.netlify.app/)
+[![Build](https://img.shields.io/netlify/eef90d0f-016a-4017-9e83-8ab4ffd8958f?style=flat-square&logo=netlify&logoColor=#00C7B7)](https://sunny-cassata-fd4c22.netlify.app/)
 [![Version](https://img.shields.io/github/package-json/v/Hulle107/ProjectD?style=flat-square)]()
 [![License](https://img.shields.io/github/license/Hulle107/ProjectD?style=flat-square)]()
-[![Top language](https://img.shields.io/github/languages/top/Hulle107/ProjectD?style=flat-square)]()
-
-ProjectD is my apprentice assignment, for my Computer Technician degree, at Ballerup TEC.
 
 ## Documentation
 
