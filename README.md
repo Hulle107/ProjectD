@@ -8,14 +8,39 @@
 [![Version](https://img.shields.io/github/package-json/v/Hulle107/ProjectD?style=flat-square)]()
 [![License](https://img.shields.io/github/license/Hulle107/ProjectD?style=flat-square)]()
 
-## Documentation
+[![node](https://img.shields.io/badge/node-%5E16.0.0-informational?style=flat-square)]()
+[![netlify-cli](https://img.shields.io/badge/netlify--cli-%5E11.5.1-informational?style=flat-square)]()
 
-- [Software quality assurance](documentation/sqa.md)
-- [Software configuration management](documentation/scm.md)
-- [Software test documentation](documentation/std.md)
-- [Software requirements specification](documentation/srs.md)
-- [Software verification and validation](documentation/v&v.md)
-- [Software design description](documentation/sdd.md)
-- [Software project management](documentation/spm.md)
-- [Software user documentation](documentation/sud.md)
-- [Software reviews and audit](documentation/sra.md)
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Setup development environment](#setup-development-environment)
+- [Product Documentation](#product-documentation)
+- [Process Documentation](#process-documentation)
+
+## Introduction
+
+ProjectD is a blog website, where people can read, comment, like or dislike, on what the blogger want to share.
+
+## Setup development environment
+
+To setup the development environment, you must have installed node & netlify-cli.
+
+To install node & netlify-cli follow this [quide]().
+
+1. Clone the project from github.
+2. `npm install` to initialize & download dependencies.
+3. `netlify dev` to startup the development server.
+
+## Product Documentation
+
+- [Requirements documentation]()
+- [UX documentation]()
+- [Architecture design document]()
+- [Quality assurance documentation]()
+
+## Process Documentation
+
+- [Product roadmaps]()
+- [Reports and metrics]()
+- [Standards]()
