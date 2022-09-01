@@ -24,9 +24,9 @@ ProjectD is a blog website, where people can read, comment, like or dislike, on 
 
 ## Setup development environment
 
-To setup the development environment, you must have installed node & netlify-cli.
+To setup the development environment, you must have installed **node** & **netlify-cli**.
 
-To install node & netlify-cli follow this [quide](https://docs.netlify.com/cli/get-started/).
+To install **node** & **netlify-cli** use this following [quide](https://docs.netlify.com/cli/get-started/).
 
 1. Clone the project from github.
 2. `npm install` to initialize & download dependencies.
