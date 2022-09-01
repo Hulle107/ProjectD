@@ -1,6 +1,6 @@
 <div align="center">
 
-![ProjectD](https://drive.google.com/file/d/1ueq4ihuiduU984P5iKqIdljQaFTGWEOh/view?usp=sharing)
+![ProjectD](https://drive.google.com/uc?export=view&id=1ueq4ihuiduU984P5iKqIdljQaFTGWEOh)
 
 </div>
 
