@@ -1,12 +1,5 @@
 # Software requirements specification
 
-**Technologies used in project:**
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23001E2B?style=for-the-badge&logo=mongodb&logoColor=%2347A248)](https://en.wikipedia.org/wiki/MongoDB)
-[![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
-[![Express](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/Express.js)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://en.wikipedia.org/wiki/Netlify)
-
 **Auther:** [Hulle107](https://github.com/Hulle107)
 
 ## Table of Contents
