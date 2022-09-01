@@ -15,7 +15,7 @@
     "start": "run-p start:**",
     "start:api": "cd api && npm run start",
     "start:client": "cd client && npm run start",
-    "build": "CI = run-p build:**",
+    "build": "run-p build:**",
     "build:api": "cd api && npm run build",
     "build:client": "cd client && npm run build"
   },
