@@ -5,11 +5,11 @@
 </div>
 
 [![Build](https://img.shields.io/netlify/eef90d0f-016a-4017-9e83-8ab4ffd8958f?style=flat-square&logo=netlify&logoColor=#00C7B7)](https://sunny-cassata-fd4c22.netlify.app/)
-[![Version](https://img.shields.io/github/package-json/v/Hulle107/ProjectD?style=flat-square)]()
-[![License](https://img.shields.io/github/license/Hulle107/ProjectD?style=flat-square)]()
+[![Version](https://img.shields.io/github/package-json/v/Hulle107/ProjectD?style=flat-square)](package.json)
+[![License](https://img.shields.io/github/license/Hulle107/ProjectD?style=flat-square)](LICENSE)
 
-[![node](https://img.shields.io/badge/node-%5E16.0.0-informational?style=flat-square)]()
-[![netlify-cli](https://img.shields.io/badge/netlify--cli-%5E11.5.1-informational?style=flat-square)]()
+[![node](https://img.shields.io/badge/node-%5E16.0.0-informational?style=flat-square)](https://nodejs.org/en/)
+[![netlify-cli](https://img.shields.io/badge/netlify--cli-%5E11.5.1-informational?style=flat-square)](https://www.npmjs.com/package/netlify-cli)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ ProjectD is a blog website, where people can read, comment, like or dislike, on 
 
 To setup the development environment, you must have installed node & netlify-cli.
 
-To install node & netlify-cli follow this [quide]().
+To install node & netlify-cli follow this [quide](https://docs.netlify.com/cli/get-started/).
 
 1. Clone the project from github.
 2. `npm install` to initialize & download dependencies.
