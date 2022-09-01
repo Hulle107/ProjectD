@@ -1,6 +1,7 @@
 {
   "name": "project-d",
   "version": "1.0.1",
+  "private": true,
   "description": "ProjectD is my apprentice assignment, for my Computer Technician degree, at Ballerup TEC.",
   "keywords": [
     "netlify",
@@ -12,32 +13,13 @@
   "license": "MIT",
   "scripts": {
     "start": "run-p start:**",
-    "start:lambda": "netlify-lambda serve functions",
-    "start:react": "react-scripts start",
+    "start:api": "cd api && npm run start",
+    "start:client": "cd client && npm run start",
     "build": "run-p build:**",
-    "build:lambda": "netlify-lambda build functions",
-    "build:react": "react-scripts build"
-  },
-  "dependencies": {
-    "body-parser": "^1.20.0",
-    "express": "^4.18.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.3.0",
-    "react-scripts": "^5.0.1",
-    "serverless-http": "^3.0.2"
+    "build:api": "cd api && npm run build",
+    "build:client": "cd client && npm run build"
   },
   "devDependencies": {
-    "netlify-lambda": "^1.6.3",
     "npm-run-all": "^4.1.5"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  }
 }

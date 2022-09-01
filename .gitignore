@@ -1,6 +1,6 @@
-/node_modules
-/build
-/functions_build
+**/node_modules
+**/build
+**/.netlify
 
 package-lock.json
 

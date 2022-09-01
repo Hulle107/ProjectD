@@ -1,6 +1,6 @@
-const express = require('express');
-const serverless = require('serverless-http');
-const bodyParser = require('body-parser');
+import express from 'express';
+import serverless from 'serverless-http';
+import bodyParser from 'body-parser';
 
 const app = express();
 const router = express.Router();
@@ -14,5 +14,9 @@ router.get('/hello-world', (req, res) => {
 
 app.use('/.netlify/functions/api', router);
 
-module.exports = app;
-module.exports.handler = serverless(app);
+const handler = serverless(app);
+
+export {
+    app,
+    handler
+}
