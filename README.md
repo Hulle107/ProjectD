@@ -14,7 +14,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Setup development environment](#setup-development-environment)
+- [Installation](#installation)
+- [Requirements](#requirements)
 - [Product Documentation](#product-documentation)
 - [Process Documentation](#process-documentation)
 
@@ -22,15 +23,18 @@
 
 ProjectD is a blog website, where people can read, comment, like or dislike, on what the blogger want to share.
 
-## Setup development environment
-
-To setup the development environment, you must have installed **node** & **netlify-cli**.
-
-To install **node** & **netlify-cli** use this following [quide](https://docs.netlify.com/cli/get-started/).
+## Installation
 
 1. Clone the project from github.
 2. `npm install` to initialize & download dependencies.
 3. `netlify dev` to startup the development server.
+
+## Requirements
+
+- **node v16.0.0** 
+- **netlify-cli v11.5.1** 
+
+To install **node** & **netlify-cli** use this following [quide](https://docs.netlify.com/cli/get-started/).
 
 ## Product Documentation
 
