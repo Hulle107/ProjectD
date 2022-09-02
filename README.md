@@ -11,40 +11,35 @@
 [![node](https://img.shields.io/badge/node-%5E16.0.0-informational?style=flat-square)](https://nodejs.org/en/)
 [![netlify-cli](https://img.shields.io/badge/netlify--cli-%5E11.5.1-informational?style=flat-square)](https://www.npmjs.com/package/netlify-cli)
 
-## Table of Contents
+## Indholdsfortegnelse
 
-- [Introduction](#introduction)
+- [Indledning](#indledning)
 - [Installation](#installation)
-- [Requirements](#requirements)
-- [Product Documentation](#product-documentation)
-- [Process Documentation](#process-documentation)
+- [Miljø krav](#miljø-krav)
+- [Dokumentation](#dokumentation)
 
-## Introduction
+## Indledning
 
-ProjectD is a blog website, where people can read, comment, like or dislike, on what the blogger want to share.
+**ProjectD** er et projekt der udvikles, for min svendeprøve som **Datamatiker med speciale i programmering** på Ballerup TEC.
+
+Projektet omhandler at lave en blog hjemmeside, hvor ejeren kan blogge om ting. Brugere kan så kommentere, eller rate, de oplæg som ejeren ligger ud.
 
 ## Installation
 
-1. Clone the project from github.
-2. `npm install` to initialize & download dependencies.
-3. `netlify dev` to startup the development server.
+1. Clone projektet fra github.
+2. `npm install` for at upsætte og downloade miljøet.
+3. `netlify dev` for at starte udviklingsserveren.
 
-## Requirements
+## Miljø krav
+
+Disse ting er krævet for at kunne køre udviklingsmiljøet.
 
 - **node v16.0.0** 
 - **netlify-cli v11.5.1** 
 
-To install **node** & **netlify-cli** use this following [quide](https://docs.netlify.com/cli/get-started/).
+Til hjælp med at installere **node** & **netlify-cli** brug denne [guide](https://docs.netlify.com/cli/get-started/).
 
-## Product Documentation
+## Dokumentation
 
-- [Requirements documentation]()
-- [UX documentation]()
-- [Architecture design document]()
-- [Quality assurance documentation]()
-
-## Process Documentation
-
-- [Product roadmaps]()
-- [Reports and metrics]()
-- [Standards]()
+- [Idébeskrivelse]()
+- [Kravspecifikation]()
