@@ -21,7 +21,7 @@ Underskrift:
 
 - [1. Introduktion]()
     - [1.1. Målbeskrivelse]()
-    - [1.2. Dokumentkonventioner]()
+    - [1.2. Dokument konventioner]()
     - [1.3. Kunde, leverandør og producent]()
     - [1.4. Regler for ændringer af kravspecifikation]()
     - [1.5. Afleveringstidspunktet for kravspecifikation og projekt]()
@@ -52,11 +52,11 @@ Underskrift:
 - [7. Andre krav]()
 - [8. Bilag]()
 
-## $1$. Introduktion
+## 1. Introduktion
 
 ### 1.1. Målbeskrivelse
 
-### 1.2. Dokumentkonventioner
+### 1.2. Dokument konventioner
 
 | Forkortelse | Beskrivelse |
 | :----------- | :----------- |
