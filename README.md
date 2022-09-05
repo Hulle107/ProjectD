@@ -13,24 +13,33 @@
 
 ## Indholdsfortegnelse
 
-- [Indledning](#indledning)
-- [Installation](#installation)
-- [Miljø krav](#miljø-krav)
+- [Introduktion](#introduktion)
+- [Installation af udviklingsmiljø](#installation-af-udviklingsmiljø)
+- [Udviklingsmiljø krav](#udviklingsmiljø-krav)
 - [Dokumentation](#dokumentation)
 
-## Indledning
+## Introduktion
 
-**ProjectD** er et projekt der udvikles, for min svendeprøve som **Datamatiker med speciale i programmering** på Ballerup TEC.
+**ProjectD** er et projekt der udvikles, for min svendeprøve som **Datamatiker med speciale i programmering** på TEC Ballerup.
 
-Projektet omhandler at lave en blog hjemmeside, hvor ejeren kan blogge om ting. Brugere kan så kommentere, eller rate, de oplæg som ejeren ligger ud.
+Projektet omhandler at lave en blog hjemmeside, hvor ejeren kan blogge om ting. Brugere vil så kunne kommentere, eller rate, de oplæg som ejeren ligger ud.
 
-## Installation
+Det vil blive udviklet med **React**[^1] til frontend og **Express**[^2] for backend. Til databasen vil der bruges **MongoDB**[^3] og for serveren vil der bruges **Netlify**[^4].
+
+- [Idébeskrivelse]()
+
+[^1]: [link til wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+[^2]: [link til wikipedia](https://en.wikipedia.org/wiki/Express.js)
+[^3]: [link til wikipedia](https://en.wikipedia.org/wiki/MongoDB)
+[^4]: [link til wikipedia](https://en.wikipedia.org/wiki/Netlify)
+
+## Installation af udviklingsmiljø
 
 1. Clone projektet fra github.
 2. `npm install` for at upsætte og downloade miljøet.
 3. `netlify dev` for at starte udviklingsserveren.
 
-## Miljø krav
+## Udviklingsmiljø krav
 
 Disse ting er krævet for at kunne køre udviklingsmiljøet.
 
@@ -39,7 +48,26 @@ Disse ting er krævet for at kunne køre udviklingsmiljøet.
 
 Til hjælp med at installere **node** & **netlify-cli** brug denne [guide](https://docs.netlify.com/cli/get-started/).
 
-## Dokumentation
+## Produkt dokumentation
 
-- [Idébeskrivelse]()
+**System dokumentation:**
+
 - [Kravspecifikation]()
+- [UX design specifikation]()
+- [Arkitektur design specifikation]()
+- [QA specifikation]()
+- [Kildekode dokument]()
+- [API dokumentation]()
+
+**Brugerdokumentation:**
+
+- [Brugervejledning]()
+- [Administratorvejledning]()
+
+## Proces dokumentation
+
+- [Estimeret tidsplan]()
+- [Realiseret tidsplan]()
+- [Arbejdsfordeling]()
+- [Projektdagbog]()
+- [Testrapport]()
