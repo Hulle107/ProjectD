@@ -8,7 +8,7 @@
 
 </div>
 
-# Idébeskrivelse
+# Kvalitetssikrings specifikation
 
 Projektnavn: ProjectD<br>
 Forfatter: Dennis Thiesen<br>
@@ -21,16 +21,3 @@ Underskrift:
 | Underskrift: | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Underskrift: | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 
 ## Indholdsfortegnelse
-
-- [1. Idénavn og hvem der kom med den]()
-- [3. En beskrivelse af idéen]()
-- [4. Beskrivelse af projektet]()
-- [5. Fokusgruppeinterview]()
-
-## 1. Idénavn og hvem der kom med den
-
-## 2. En beskrivelse af idéen
-
-## 3. Beskrivelse af projektet
-
-## 4. Fokusgruppeinterview
