@@ -1,7 +1,3 @@
-<style>
-    thead th:empty { display: none; }
-</style>
-
 <div align="center">
 
 ![ProjectD](https://drive.google.com/uc?export=view&id=1ueq4ihuiduU984P5iKqIdljQaFTGWEOh)
