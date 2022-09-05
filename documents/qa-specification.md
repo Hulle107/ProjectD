@@ -4,7 +4,7 @@
 
 </div>
 
-# Kvalitetssikrings specifikation
+# Kvalitetssikring specifikation
 
 Projektnavn: ProjectD<br>
 Forfatter: Dennis Thiesen<br>
