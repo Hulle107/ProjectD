@@ -16,7 +16,9 @@
 - [Introduktion](#introduktion)
 - [Installation af udviklingsmiljø](#installation-af-udviklingsmiljø)
 - [Udviklingsmiljø krav](#udviklingsmiljø-krav)
-- [Dokumentation](#dokumentation)
+- [Produkt dokumentation](#produkt-dokumentation)
+- [Proces dokumentation](#proces-dokumentation)
+- [Referencer](#referencer)
 
 ## Introduktion
 
@@ -32,7 +34,7 @@ Det vil blive udviklet med **React**[^1] til frontend og **Express**[^2] for bac
 [^4]: **Netlify:** A way to combine your favorite tools to build apps for the web. [Link](https://en.wikipedia.org/wiki/Netlify)
 [^5]: **Node:** An asynchronous event-driven JavaScript runtime, designed to build scalable network applications. [Link](https://en.wikipedia.org/wiki/Node.js)
 
-- [Idébeskrivelse]()
+- [Idébeskrivelse](documents/idea-description.md)
 
 ## Installation af udviklingsmiljø
 
@@ -44,8 +46,8 @@ Det vil blive udviklet med **React**[^1] til frontend og **Express**[^2] for bac
 
 Disse ting er krævet for at kunne køre udviklingsmiljøet.
 
-- **node v16.0.0** 
-- **netlify-cli v11.5.1** 
+- **node v16.0.0**
+- **netlify-cli v11.5.1**
 
 Til hjælp med at installere **node** & **netlify-cli** brug denne [guide](https://docs.netlify.com/cli/get-started/).
 
@@ -53,14 +55,14 @@ Til hjælp med at installere **node** & **netlify-cli** brug denne [guide](https
 
 **System dokumentation:**
 
-- [Kravspecifikation]()
-- [UX design specifikation]()
-- [Arkitektur design specifikation]()
-- [QA specifikation]()
+- [Kravspecifikation](documents/requirement-specification.md)
+- [Brugeroplevelse design specifikation](documents/ux-design-specification.md)
+- [Arkitektur design specifikation](documents/architecture-design-specification.md)
+- [Kvalitetssikring specifikation](documents/qa-specification.md)
 - [Kildekode dokument]()
 - [API dokumentation]()
 
-**Brugerdokumentation:**
+**Bruger dokumentation:**
 
 - [Brugervejledning]()
 - [Administratorvejledning]()
