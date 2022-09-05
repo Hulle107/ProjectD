@@ -24,14 +24,15 @@
 
 Projektet omhandler at lave en blog hjemmeside, hvor ejeren kan blogge om ting. Brugere vil så kunne kommentere, eller rate, de oplæg som ejeren ligger ud.
 
-Det vil blive udviklet med **React**[^1] til frontend og **Express**[^2] for backend. Til databasen vil der bruges **MongoDB**[^3] og for serveren vil der bruges **Netlify**[^4].
+Det vil blive udviklet med **React**[^1] til frontend og **Express**[^2] for backend. Til databasen vil der bruges **MongoDB**[^3] og for serveren vil der bruges **Netlify**[^4]. Det hele vil blive udviklet i **Node.js**[^5].
+
+[^1]: **React:** A JavaScript library for building user interfaces [Link](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+[^2]: **Express:** Fast, unopinionated, minimalist web framework for Node.js [Link](https://en.wikipedia.org/wiki/Express.js)
+[^3]: **MongoDB:** a NoSQL database program, using JSON-like documents with optional schemas. [Link](https://en.wikipedia.org/wiki/MongoDB)
+[^4]: **Netlify:** A way to combine your favorite tools to build apps for the web. [Link](https://en.wikipedia.org/wiki/Netlify)
+[^5]: **Node:** An asynchronous event-driven JavaScript runtime, designed to build scalable network applications. [Link](https://en.wikipedia.org/wiki/Node.js)
 
 - [Idébeskrivelse]()
-
-[^1]: [link til wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
-[^2]: [link til wikipedia](https://en.wikipedia.org/wiki/Express.js)
-[^3]: [link til wikipedia](https://en.wikipedia.org/wiki/MongoDB)
-[^4]: [link til wikipedia](https://en.wikipedia.org/wiki/Netlify)
 
 ## Installation af udviklingsmiljø
 
