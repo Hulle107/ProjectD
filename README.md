@@ -30,7 +30,7 @@ Der vil være en API[^1] med fuld CRUD[^2], til at håndtere brugere, artikler, 
 
 Til hjemmesiden vil vi bruge React[^3] til frontend og Express[^4] til API'en, dette vil blive lanceret på et serverless[^5] miljø. For det serverless miljø vil vi bruge Netlify[^6], og for databasen vil vi bruge MongoDB[^7].
 
-Til udviklingsmiljø vil vi bruge Node.js[^8].
+Til udviklingsmiljøet vil vi bruge Node.js[^8].
 
 [^1]: "API - Wikipedia." https://en.wikipedia.org/wiki/API.
 [^2]: "Create, read, update and delete - Wikipedia." https://en.wikipedia.org/wiki/Create,_read,_update_and_delete.
