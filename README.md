@@ -24,17 +24,24 @@
 
 **ProjectD** er et projekt der udvikles, for min svendeprøve som **Datamatiker med speciale i programmering** på TEC Ballerup.
 
-Projektet omhandler at lave en blog hjemmeside, hvor ejeren kan blogge om ting. Brugere vil så kunne kommentere, eller rate, de oplæg som ejeren ligger ud.
+Projektet omhandler at lave en blog-hjemmeside, hvor det er muligt at kunne logge ind, som administrator, og redigere sidens indhold. Brugere af siden vil også kunne logge ind for at kunne kommentere og rate, på sidens indhold. Hjemmesiden vil være brugervenlig, og være i et modern design.
 
-Det vil blive udviklet med **React**[^1] til frontend og **Express**[^2] for backend. Til databasen vil der bruges **MongoDB**[^3] og for serveren vil der bruges **Netlify**[^4]. Det hele vil blive udviklet i **Node.js**[^5].
+Der vil være en API[^1] med fuld CRUD[^2], til at håndtere brugere, artikler, kommentere og rate's.
 
-[^1]: [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)): A JavaScript library for building user interfaces.
-[^2]: [Express](https://en.wikipedia.org/wiki/Express.js): Fast, unopinionated, minimalist web framework for Node.js.
-[^3]: [MongoDB](https://en.wikipedia.org/wiki/MongoDB): A NoSQL database program, using JSON-like documents with optional schemas.
-[^4]: [Netlify](https://en.wikipedia.org/wiki/Netlify): A way to combine your favorite tools to build apps for the web.
-[^5]: [Node.js](https://en.wikipedia.org/wiki/Node.js): An asynchronous event-driven JavaScript runtime, designed to build scalable network applications.
+Til hjemmesiden vil vi bruge React[^3] til frontend og Express[^4] til API'en, dette vil blive lanceret på et serverless[^5] miljø. For det serverless miljø vil der bruges Netlify[^6], og for databasen vil vi bruge MongoDB[^7].
 
-- [Idébeskrivelse](documents/idea-description.md)
+For at udviklingsmiljø vil vi bruge Node.js[^8].
+
+[^1]: "API - Wikipedia." https://en.wikipedia.org/wiki/API.
+[^2]: "Create, read, update and delete - Wikipedia." https://en.wikipedia.org/wiki/Create,_read,_update_and_delete.
+[^3]: "React (JavaScript library) - Wikipedia." https://en.wikipedia.org/wiki/React_(JavaScript_library).
+[^4]: "Express.js - Wikipedia." https://en.wikipedia.org/wiki/Express.js.
+[^5]: "Serverless computing - Wikipedia." https://en.wikipedia.org/wiki/Serverless_computing.
+[^6]: "Netlify - Wikipedia." https://en.wikipedia.org/wiki/Netlify.
+[^7]: "MongoDB - Wikipedia." https://en.wikipedia.org/wiki/MongoDB.
+[^8]: "Node.js - Wikipedia." https://en.wikipedia.org/wiki/Node.js.
+
+For fuld briskrivelse af idéen check [idébeskrivelse.pdf]().
 
 ## Installation af udviklingsmiljø
 
@@ -55,10 +62,10 @@ Til hjælp med at installere **node** & **netlify-cli** brug denne [guide](https
 
 **System dokumentation:**
 
-- [Kravspecifikation](documents/requirement-specification.md)
-- [Brugeroplevelse design specifikation](documents/ux-design-specification.md)
-- [Arkitektur design specifikation](documents/architecture-design-specification.md)
-- [Kvalitetssikring specifikation](documents/qa-specification.md)
+- [Kravspecifikation]()
+- [Brugeroplevelse design specifikation]()
+- [Arkitektur design specifikation]()
+- [Kvalitetssikring specifikation]()
 - [Kildekode dokument]()
 - [API dokumentation]()
 
