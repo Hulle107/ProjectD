@@ -28,9 +28,9 @@ Projektet omhandler at lave en blog-hjemmeside, hvor det er muligt at kunne logg
 
 Der vil være en API[^1] med fuld CRUD[^2], til at håndtere brugere, artikler, kommentere og rate's.
 
-Til hjemmesiden vil vi bruge React[^3] til frontend og Express[^4] til API'en, dette vil blive lanceret på et serverless[^5] miljø. For det serverless miljø vil der bruges Netlify[^6], og for databasen vil vi bruge MongoDB[^7].
+Til hjemmesiden vil vi bruge React[^3] til frontend og Express[^4] til API'en, dette vil blive lanceret på et serverless[^5] miljø. For det serverless miljø vil vi bruge Netlify[^6], og for databasen vil vi bruge MongoDB[^7].
 
-For at udviklingsmiljø vil vi bruge Node.js[^8].
+Til udviklingsmiljø vil vi bruge Node.js[^8].
 
 [^1]: "API - Wikipedia." https://en.wikipedia.org/wiki/API.
 [^2]: "Create, read, update and delete - Wikipedia." https://en.wikipedia.org/wiki/Create,_read,_update_and_delete.
@@ -41,7 +41,7 @@ For at udviklingsmiljø vil vi bruge Node.js[^8].
 [^7]: "MongoDB - Wikipedia." https://en.wikipedia.org/wiki/MongoDB.
 [^8]: "Node.js - Wikipedia." https://en.wikipedia.org/wiki/Node.js.
 
-For fuld briskrivelse af idéen check [idébeskrivelse.pdf]().
+For fuld beskrivelse af idéen check [idébeskrivelse.pdf]().
 
 ## Installation af udviklingsmiljø
 
