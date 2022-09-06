@@ -1,6 +1,6 @@
 <div align="center">
 
-![ProjectD](client/public/logo.png)
+![ProjectD](client/src/logo.svg)
 
 </div>
 
