@@ -18,7 +18,6 @@
 - [Udviklingsmiljø krav](#udviklingsmiljø-krav)
 - [Produkt dokumentation](#produkt-dokumentation)
 - [Proces dokumentation](#proces-dokumentation)
-- [Referencer](#referencer)
 
 ## Introduktion
 
@@ -81,5 +80,3 @@ Til hjælp med at installere **node** & **netlify-cli** brug denne [guide](https
 - [Arbejdsfordeling]()
 - [Projektdagbog]()
 - [Testrapport]()
-
-## Referencer
