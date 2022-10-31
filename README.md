@@ -21,7 +21,7 @@
 
 ## Introduktion
 
-**ProjectD** er et projekt der udvikles, for min svendeprøve som **Datamatiker med speciale i programmering** på TEC Ballerup.
+**ProjectD** er et projekt der udvikles, for min svendeprøve som **Datatekniker med speciale i programmering** på TEC Ballerup.
 
 Projektet omhandler at lave en blog-hjemmeside, hvor det er muligt at kunne logge ind, som administrator, og redigere sidens indhold. Brugere af siden vil også kunne logge ind for at kunne kommentere og rate, på sidens indhold. Hjemmesiden vil være brugervenlig, og være i et modern design.
 
